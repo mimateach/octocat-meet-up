@@ -1,12 +1,12 @@
 # RIDMI
 
 ✍️ Nombre del equipo: 
-                        Grupo 4 
+                        Grupo Codequitas
 ✍️ Integrantes del equipo: 
-    Manu
-    Ema
-    Nahuel
-    Rochi
-    Arnau
-    Rosie
-    Guille
+   
+    Raquel
+    Vero
+    Paula
+    Camila
+    Elena
+    
